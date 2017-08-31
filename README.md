@@ -1,2 +1,1 @@
-# AsteroidsK
-Asteroid Game
+AsteroidsK
